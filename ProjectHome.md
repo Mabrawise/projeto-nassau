@@ -1,0 +1,1 @@
+Projeto com fins acadêmicos, com o interesse de controlar a produção e fazer o controle das avarias.
